@@ -1,0 +1,1715 @@
+{
+    "technology": [
+      {
+        "brand": "Apple",
+        "model": "MacBook Air",
+        "price": 999,
+        "stock": 150,
+        "release_year": 2020
+      },
+      {
+        "brand": "Apple",
+        "model": "MacBook Pro 13",
+        "price": 1299,
+        "stock": 120,
+        "release_year": 2021
+      },
+      {
+        "brand": "Apple",
+        "model": "MacBook Pro 16",
+        "price": 2399,
+        "stock": 100,
+        "release_year": 2019
+      },
+      {
+        "brand": "Dell",
+        "model": "XPS 13",
+        "price": 999,
+        "stock": 90,
+        "release_year": 2020
+      },
+      {
+        "brand": "Dell",
+        "model": "XPS 15",
+        "price": 1399,
+        "stock": 80,
+        "release_year": 2021
+      },
+      {
+        "brand": "HP",
+        "model": "Spectre x360",
+        "price": 1199,
+        "stock": 70,
+        "release_year": 2021
+      },
+      {
+        "brand": "HP",
+        "model": "Envy x360",
+        "price": 899,
+        "stock": 60,
+        "release_year": 2020
+      },
+      {
+        "brand": "Lenovo",
+        "model": "ThinkPad X1 Carbon",
+        "price": 1399,
+        "stock": 50,
+        "release_year": 2021
+      },
+      {
+        "brand": "Lenovo",
+        "model": "ThinkPad X1 Yoga",
+        "price": 1499,
+        "stock": 40,
+        "release_year": 2020
+      },
+      {
+        "brand": "Asus",
+        "model": "ZenBook 14",
+        "price": 999,
+        "stock": 30,
+        "release_year": 2021
+      },
+      {
+        "brand": "Asus",
+        "model": "ROG Zephyrus G14",
+        "price": 1499,
+        "stock": 20,
+        "release_year": 2020
+      },
+      {
+        "brand": "Microsoft",
+        "model": "Surface Laptop 4",
+        "price": 999,
+        "stock": 10,
+        "release_year": 2021
+      },
+      {
+        "brand": "Microsoft",
+        "model": "Surface Book 3",
+        "price": 1599,
+        "stock": 10,
+        "release_year": 2020
+      },
+      {
+        "brand": "Acer",
+        "model": "Swift 3",
+        "price": 699,
+        "stock": 20,
+        "release_year": 2021
+      },
+      {
+        "brand": "Acer",
+        "model": "Predator Helios 300",
+        "price": 1199,
+        "stock": 30,
+        "release_year": 2020
+      },
+      {
+        "brand": "Razer",
+        "model": "Blade 15",
+        "price": 1699,
+        "stock": 40,
+        "release_year": 2021
+      },
+      {
+        "brand": "MSI",
+        "model": "GS66 Stealth",
+        "price": 1999,
+        "stock": 50,
+        "release_year": 2021
+      },
+      {
+        "brand": "Gigabyte",
+        "model": "Aero 15",
+        "price": 1799,
+        "stock": 60,
+        "release_year": 2020
+      },
+      {
+        "brand": "Huawei",
+        "model": "MateBook X Pro",
+        "price": 1499,
+        "stock": 70,
+        "release_year": 2021
+      },
+      {
+        "brand": "Samsung",
+        "model": "Galaxy Book Pro 360",
+        "price": 1299,
+        "stock": 80,
+        "release_year": 2021
+      },
+      {
+        "brand": "LG",
+        "model": "Gram 17",
+        "price": 1599,
+        "stock": 90,
+        "release_year": 2020
+      },
+      {
+        "brand": "Google",
+        "model": "Pixelbook Go",
+        "price": 649,
+        "stock": 100,
+        "release_year": 2019
+      },
+      {
+        "brand": "Toshiba",
+        "model": "Dynabook Tecra X50",
+        "price": 999,
+        "stock": 110,
+        "release_year": 2020
+      },
+      {
+        "brand": "Sony",
+        "model": "VAIO SX14",
+        "price": 1399,
+        "stock": 120,
+        "release_year": 2021
+      },
+      {
+        "brand": "Fujitsu",
+        "model": "Lifebook U939X",
+        "price": 1299,
+        "stock": 130,
+        "release_year": 2020
+      },
+      {
+        "brand": "MSI",
+        "model": "Prestige 15",
+        "price": 1499,
+        "stock": 140,
+        "release_year": 2021
+      },
+      {
+        "brand": "Dell",
+        "model": "Inspiron 15 7000",
+        "price": 799,
+        "stock": 150,
+        "release_year": 2021
+      },
+      {
+        "brand": "Asus",
+        "model": "VivoBook 15",
+        "price": 699,
+        "stock": 160,
+        "release_year": 2020
+      },
+      {
+        "brand": "HP",
+        "model": "Pavilion x360",
+        "price": 899,
+        "stock": 170,
+        "release_year": 2021
+      },
+      {
+        "brand": "Lenovo",
+        "model": "IdeaPad 5",
+        "price": 599,
+        "stock": 180,
+        "release_year": 2020
+      },
+      {
+        "brand": "Acer",
+        "model": "Chromebook Spin 713",
+        "price": 599,
+        "stock": 190,
+        "release_year": 2021
+      },
+      {
+        "brand": "Samsung",
+        "model": "Galaxy Chromebook 2",
+        "price": 699,
+        "stock": 200,
+        "release_year": 2021
+      },
+      {
+        "brand": "Google",
+        "model": "Pixelbook",
+        "price": 999,
+        "stock": 210,
+        "release_year": 2017
+      },
+      {
+        "brand": "Microsoft",
+        "model": "Surface Laptop Go",
+        "price": 549,
+        "stock": 220,
+        "release_year": 2020
+      },
+      {
+        "brand": "Dell",
+        "model": "Latitude 14 5000",
+        "price": 1199,
+        "stock": 230,
+        "release_year": 2021
+      },
+      {
+        "brand": "Asus",
+        "model": "TUF Gaming A15",
+        "price": 999,
+        "stock": 240,
+        "release_year": 2020
+      },
+      {
+        "brand": "Lenovo",
+        "model": "Legion 5",
+        "price": 1199,
+        "stock": 250,
+        "release_year": 2021
+      },
+      {
+        "brand": "Acer",
+        "model": "Nitro 5",
+        "price": 899,
+        "stock": 260,
+        "release_year": 2020
+      },
+      {
+        "brand": "HP",
+        "model": "OMEN 15",
+        "price": 1299,
+        "stock": 270,
+        "release_year": 2021
+      },
+      {
+        "brand": "MSI",
+        "model": "GF65 Thin",
+        "price": 1099,
+        "stock": 280,
+        "release_year": 2020
+      },
+      {
+        "brand": "Razer",
+        "model": "Blade Stealth 13",
+        "price": 1499,
+        "stock": 290,
+        "release_year": 2021
+      },
+      {
+        "brand": "Asus",
+        "model": "ROG Strix Scar 15",
+        "price": 1799,
+        "stock": 300,
+        "release_year": 2021
+      },
+      {
+        "brand": "Alienware",
+        "model": "M15 R4",
+        "price": 2099,
+        "stock": 310,
+        "release_year": 2021
+      },
+      {
+        "brand": "Gigabyte",
+        "model": "AORUS 15G",
+        "price": 1999,
+        "stock": 320,
+        "release_year": 2020
+      },
+      {
+        "brand": "Lenovo",
+        "model": "IdeaPad Gaming 3",
+        "price": 799,
+        "stock": 330,
+        "release_year": 2021
+      },
+      {
+        "brand": "Dell",
+        "model": "Alienware m17 R4",
+        "price": 2399,
+        "stock": 340,
+        "release_year": 2021
+      },
+      {
+        "brand": "Acer",
+        "model": "Predator Triton 500",
+        "price": 1999,
+        "stock": 350,
+        "release_year": 2020
+      },
+      {
+        "brand": "Asus",
+        "model": "Zephyrus G15",
+        "price": 1799,
+        "stock": 360,
+        "release_year": 2021
+      },
+      {
+        "brand": "MSI",
+        "model": "GE66 Raider",
+        "price": 2199,
+        "stock": 370,
+        "release_year": 2020
+      },
+      {
+        "brand": "Razer",
+        "model": "Blade 17",
+        "price": 2499,
+        "stock": 380,
+        "release_year": 2021
+      },
+      {
+        "brand": "Gigabyte",
+        "model": "AORUS 17G",
+        "price": 2299,
+        "stock": 390,
+        "release_year": 2020
+      },
+      {
+        "brand": "Alienware",
+        "model": "Area-51m",
+        "price": 3499,
+        "stock": 400,
+        "release_year": 2019
+      },
+      {
+        "brand": "Lenovo",
+        "model": "Legion 7",
+        "price": 2499,
+        "stock": 410,
+        "release_year": 2021
+      },
+      {
+        "brand": "Dell",
+        "model": "Precision 5560",
+        "price": 2699,
+        "stock": 420,
+        "release_year": 2021
+      },
+      {
+        "brand": "HP",
+        "model": "ZBook Fury 15 G7",
+        "price": 2699,
+        "stock": 430,
+        "release_year": 2020
+      },
+      {
+        "brand": "Asus",
+        "model": "ROG Mothership",
+        "price": 6499,
+        "stock": 440,
+        "release_year": 2020
+      },
+      {
+        "brand": "MSI",
+        "model": "WS66",
+        "price": 3199,
+        "stock": 450,
+        "release_year": 2021
+      },
+      {
+        "brand": "Razer",
+        "model": "Blade Stealth 13 OLED",
+        "price": 1799,
+        "stock": 460,
+        "release_year": 2020
+      },
+      {
+        "brand": "Acer",
+        "model": "ConceptD 7",
+        "price": 2299,
+        "stock": 470,
+        "release_year": 2021
+      },
+      {
+        "brand": "Alienware",
+        "model": "Area-51m R2",
+        "price": 3999,
+        "stock": 480,
+        "release_year": 2020
+      },
+      {
+        "brand": "Lenovo",
+        "model": "ThinkPad P15",
+        "price": 2399,
+        "stock": 490,
+        "release_year": 2020
+      },
+      {
+        "brand": "Dell",
+        "model": "Latitude 7320",
+        "price": 1999,
+        "stock": 500,
+        "release_year": 2021
+      },
+      {
+        "brand": "HP",
+        "model": "Elite Dragonfly Max",
+        "price": 1999,
+        "stock": 510,
+        "release_year": 2020
+      },
+      {
+        "brand": "Asus",
+        "model": "ProArt StudioBook Pro 17",
+        "price": 2699,
+        "stock": 520,
+        "release_year": 2021
+      },
+      {
+        "brand": "MSI",
+        "model": "Creator 15",
+        "price": 1899,
+        "stock": 530,
+        "release_year": 2020
+      },
+      {
+        "brand": "Razer",
+        "model": "Blade Pro 17",
+        "price": 2699,
+        "stock": 540,
+        "release_year": 2021
+      },
+      {
+        "brand": "Alienware",
+        "model": "m15 R3",
+        "price": 2399,
+        "stock": 550,
+        "release_year": 2020
+      },
+      {
+        "brand": "Lenovo",
+        "model": "Yoga 9i",
+        "price": 1699,
+        "stock": 560,
+        "release_year": 2021
+      },
+      {
+        "brand": "Dell",
+        "model": "Inspiron 14 5000 2-in-1",
+        "price": 799,
+        "stock": 570,
+        "release_year": 2021
+      },
+      {
+        "brand": "HP",
+        "model": "ENVY 13",
+        "price": 1199,
+        "stock": 580,
+        "release_year": 2020
+      },
+      {
+        "brand": "Asus",
+        "model": "ZenBook Duo",
+        "price": 1399,
+        "stock": 590,
+        "release_year": 2021
+      },
+      {
+        "brand": "MSI",
+        "model": "GS75 Stealth",
+        "price": 2199,
+        "stock": 600,
+        "release_year": 2020
+      },
+      {
+        "brand": "Razer",
+        "model": "Blade 14",
+        "price": 1799,
+        "stock": 610,
+        "release_year": 2021
+      },
+      {
+        "brand": "Alienware",
+        "model": "m17 R3",
+        "price": 2499,
+        "stock": 620,
+        "release_year": 2020
+      },
+      {
+        "brand": "Lenovo",
+        "model": "IdeaPad Gaming 3i",
+        "price": 899,
+        "stock": 630,
+        "release_year": 2021
+      },
+      {
+        "brand": "Dell",
+        "model": "XPS 17",
+        "price": 1899,
+        "stock": 640,
+        "release_year": 2021
+      },
+      {
+        "brand": "Asus",
+        "model": "ROG Strix Scar 17",
+        "price": 2299,
+        "stock": 650,
+        "release_year": 2021
+      },
+      {
+        "brand": "MSI",
+        "model": "Creator 17",
+        "price": 2499,
+        "stock": 660,
+        "release_year": 2020
+      },
+      {
+        "brand": "Razer",
+        "model": "Blade Stealth 15",
+        "price": 1799,
+        "stock": 670,
+        "release_year": 2021
+      },
+      {
+        "brand": "Alienware",
+        "model": "Area-51m R3",
+        "price": 3999,
+        "stock": 680,
+        "release_year": 2021
+      },
+      {
+        "brand": "Lenovo",
+        "model": "ThinkPad P17",
+        "price": 2499,
+        "stock": 690,
+        "release_year": 2021
+      },
+      {
+        "brand": "Dell",
+        "model": "Latitude 7420",
+        "price": 2299,
+        "stock": 700,
+        "release_year": 2021
+      },
+      {
+        "brand": "HP",
+        "model": "Elite Dragonfly G2",
+        "price": 1999,
+        "stock": 710,
+        "release_year": 2021
+      },
+      {
+        "brand": "Asus",
+        "model": "ProArt StudioBook Pro 16",
+        "price": 2599,
+        "stock": 720,
+        "release_year": 2021
+      },
+      {
+        "brand": "MSI",
+        "model": "Prestige 14",
+        "price": 1599,
+        "stock": 730,
+        "release_year": 2021
+      },
+      {
+        "brand": "Razer",
+        "model": "Blade Pro 17 Studio Edition",
+        "price": 3999,
+        "stock": 740,
+        "release_year": 2020
+      },
+      {
+        "brand": "Alienware",
+        "model": "m15 R4",
+        "price": 2399,
+        "stock": 750,
+        "release_year": 2021
+      },
+      {
+        "brand": "Lenovo",
+        "model": "ThinkPad T15",
+        "price": 1499,
+        "stock": 760,
+        "release_year": 2020
+      },
+      {
+        "brand": "Dell",
+        "model": "Inspiron 15 3000",
+        "price": 499,
+        "stock": 770,
+        "release_year": 2021
+      },
+      {
+        "brand": "HP",
+        "model": "Pavilion 15",
+        "price": 699,
+        "stock": 780,
+        "release_year": 2020
+      },
+      {
+        "brand": "Asus",
+        "model": "ZenBook Flip 13",
+        "price": 999,
+        "stock": 790,
+        "release_year": 2021
+      },
+      {
+        "brand": "MSI",
+        "model": "Alpha 15",
+        "price": 1099,
+        "stock": 800,
+        "release_year": 2020
+      },
+      {
+        "brand": "Razer",
+        "model": "Blade 15 Advanced",
+        "price": 2799,
+        "stock": 810,
+        "release_year": 2021
+      },
+      {
+        "brand": "Alienware",
+        "model": "m17 R4",
+        "price": 2499,
+        "stock": 820,
+        "release_year": 2021
+      },
+      {
+        "brand": "Lenovo",
+        "model": "Yoga 9i",
+        "price": 1699,
+        "stock": 830,
+        "release_year": 2021
+      },
+      {
+        "brand": "Dell",
+        "model": "Inspiron 13 7000 2-in-1",
+        "price": 749,
+        "stock": 840,
+        "release_year": 2021
+      },
+      {
+        "brand": "HP",
+        "model": "ENVY x360 13",
+        "price": 1099,
+        "stock": 850,
+        "release_year": 2021
+      },
+      {
+        "brand": "Asus",
+        "model": "ZenBook 13",
+        "price": 899,
+        "stock": 860,
+        "release_year": 2021
+      },
+      {
+        "brand": "MSI",
+        "model": "Modern 15",
+        "price": 899,
+        "stock": 870,
+        "release_year": 2020
+      },
+      {
+        "brand": "Razer",
+        "model": "Blade Stealth 13 OLED",
+        "price": 1599,
+        "stock": 880,
+        "release_year": 2020
+      },
+      {
+        "brand": "Alienware",
+        "model": "Area-51m R2",
+        "price": 3999,
+        "stock": 890,
+        "release_year": 2020
+      },
+      {
+        "brand": "Lenovo",
+        "model": "ThinkPad P17",
+        "price": 2499,
+        "stock": 900,
+        "release_year": 2021
+      },
+      {
+        "brand": "Dell",
+        "model": "Latitude 7420",
+        "price": 2299,
+        "stock": 910,
+        "release_year": 2021
+      },
+      {
+        "brand": "HP",
+        "model": "Elite Dragonfly G2",
+        "price": 1999,
+        "stock": 920,
+        "release_year": 2021
+      },
+      {
+        "brand": "Asus",
+        "model": "ProArt StudioBook Pro 16",
+        "price": 2599,
+        "stock": 930,
+        "release_year": 2021
+      },
+      {
+        "brand": "MSI",
+        "model": "Prestige 14",
+        "price": 1599,
+        "stock": 940,
+        "release_year": 2021
+      },
+      {
+        "brand": "Razer",
+        "model": "Blade Pro 17 Studio Edition",
+        "price": 3999,
+        "stock": 950,
+        "release_year": 2020
+      },
+      {
+        "brand": "Alienware",
+        "model": "m15 R4",
+        "price": 2399,
+        "stock": 960,
+        "release_year": 2021
+      },
+      {
+        "brand": "Lenovo",
+        "model": "ThinkPad T15",
+        "price": 1499,
+        "stock": 970,
+        "release_year": 2020
+      },
+      {
+        "brand": "Dell",
+        "model": "Inspiron 15 3000",
+        "price": 499,
+        "stock": 980,
+        "release_year": 2021
+      },
+      {
+        "brand": "HP",
+        "model": "Pavilion 15",
+        "price": 699,
+        "stock": 990,
+        "release_year": 2020
+      },
+      {
+        "brand": "Asus",
+        "model": "ZenBook Flip 13",
+        "price": 999,
+        "stock": 1000,
+        "release_year": 2021
+      }
+    ],
+    "fruits": [
+          {
+            "name": "Apple",
+            "color": "Red",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Banana",
+            "color": "Yellow",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Orange",
+            "color": "Orange",
+            "taste": "Citrusy"
+          },
+          {
+            "name": "Grapes",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Watermelon",
+            "color": "Green",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Pineapple",
+            "color": "Yellow",
+            "taste": "Tangy"
+          },
+          {
+            "name": "Strawberry",
+            "color": "Red",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Mango",
+            "color": "Yellow",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Peach",
+            "color": "Orange",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Cherry",
+            "color": "Red",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Blueberry",
+            "color": "Blue",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Pear",
+            "color": "Green",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Lemon",
+            "color": "Yellow",
+            "taste": "Sour"
+          },
+          {
+            "name": "Kiwi",
+            "color": "Brown",
+            "taste": "Tart"
+          },
+          {
+            "name": "Plum",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Raspberry",
+            "color": "Red",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Cantaloupe",
+            "color": "Orange",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Blackberry",
+            "color": "Black",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Apricot",
+            "color": "Orange",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Cranberry",
+            "color": "Red",
+            "taste": "Tart"
+          },
+          {
+            "name": "Fig",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Guava",
+            "color": "Green",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Honeydew",
+            "color": "Green",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Lychee",
+            "color": "Pink",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Mandarin",
+            "color": "Orange",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Nectarine",
+            "color": "Orange",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Passion Fruit",
+            "color": "Purple",
+            "taste": "Tropical"
+          },
+          {
+            "name": "Pomegranate",
+            "color": "Red",
+            "taste": "Tart"
+          },
+          {
+            "name": "Starfruit",
+            "color": "Yellow",
+            "taste": "Tart"
+          },
+          {
+            "name": "Tangerine",
+            "color": "Orange",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Papaya",
+            "color": "Orange",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Clementine",
+            "color": "Orange",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Dragon Fruit",
+            "color": "Pink",
+            "taste": "Mild"
+          },
+          {
+            "name": "Gooseberry",
+            "color": "Green",
+            "taste": "Tart"
+          },
+          {
+            "name": "Kumquat",
+            "color": "Orange",
+            "taste": "Tart"
+          },
+          {
+            "name": "Persimmon",
+            "color": "Orange",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Quince",
+            "color": "Yellow",
+            "taste": "Tart"
+          },
+          {
+            "name": "Rambutan",
+            "color": "Red",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Soursop",
+            "color": "Green",
+            "taste": "Tart"
+          },
+          {
+            "name": "Tamarind",
+            "color": "Brown",
+            "taste": "Sour"
+          },
+          {
+            "name": "Ugli Fruit",
+            "color": "Yellow",
+            "taste": "Tart"
+          },
+          {
+            "name": "Ackee",
+            "color": "Red",
+            "taste": "Nutty"
+          },
+          {
+            "name": "Barbados Cherry",
+            "color": "Red",
+            "taste": "Tart"
+          },
+          {
+            "name": "Cherimoya",
+            "color": "Green",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Durian",
+            "color": "Yellow",
+            "taste": "Strong"
+          },
+          {
+            "name": "Feijoa",
+            "color": "Green",
+            "taste": "Tart"
+          },
+          {
+            "name": "Guanabana",
+            "color": "Green",
+            "taste": "Tart"
+          },
+          {
+            "name": "Jackfruit",
+            "color": "Yellow",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Longan",
+            "color": "Brown",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Mamey Sapote",
+            "color": "Orange",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Mulberry",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Pawpaw",
+            "color": "Yellow",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Sapodilla",
+            "color": "Brown",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Sweetsop",
+            "color": "Green",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Tamarillo",
+            "color": "Red",
+            "taste": "Tart"
+          },
+          {
+            "name": "Ugni",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Acai Berry",
+            "color": "Purple",
+            "taste": "Tart"
+          },
+          {
+            "name": "Bilberry",
+            "color": "Blue",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Boysenberry",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Camu Camu",
+            "color": "Red",
+            "taste": "Sour"
+          },
+          {
+            "name": "Cupuacu",
+            "color": "Brown",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Jabuticaba",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Loganberry",
+            "color": "Red",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Mangosteen",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Pepino",
+            "color": "Yellow",
+            "taste": "Mild"
+          },
+          {
+            "name": "Saskatoon Berry",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Surinam Cherry",
+            "color": "Red",
+            "taste": "Tart"
+          },
+          {
+            "name": "Tayberry",
+            "color": "Red",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Yuzu",
+            "color": "Yellow",
+            "taste": "Sour"
+          },
+          {
+            "name": "Breadfruit",
+            "color": "Green",
+            "taste": "Starchy"
+          },
+          {
+            "name": "Canistel",
+            "color": "Yellow",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Chayote",
+            "color": "Green",
+            "taste": "Mild"
+          },
+          {
+            "name": "Pomelo",
+            "color": "Yellow",
+            "taste": "Mild"
+          },
+          {
+            "name": "Soursop",
+            "color": "Green",
+            "taste": "Tart"
+          },
+          {
+            "name": "Feijoa",
+            "color": "Green",
+            "taste": "Tart"
+          },
+          {
+            "name": "Guanabana",
+            "color": "Green",
+            "taste": "Tart"
+          },
+          {
+            "name": "Jackfruit",
+            "color": "Yellow",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Longan",
+            "color": "Brown",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Mamey Sapote",
+            "color": "Orange",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Mulberry",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Pawpaw",
+            "color": "Yellow",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Sapodilla",
+            "color": "Brown",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Sweetsop",
+            "color": "Green",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Tamarillo",
+            "color": "Red",
+            "taste": "Tart"
+          },
+          {
+            "name": "Ugni",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Acai Berry",
+            "color": "Purple",
+            "taste": "Tart"
+          },
+          {
+            "name": "Bilberry",
+            "color": "Blue",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Boysenberry",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Camu Camu",
+            "color": "Red",
+            "taste": "Sour"
+          },
+          {
+            "name": "Cupuacu",
+            "color": "Brown",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Jabuticaba",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Loganberry",
+            "color": "Red",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Mangosteen",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Pepino",
+            "color": "Yellow",
+            "taste": "Mild"
+          },
+          {
+            "name": "Saskatoon Berry",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Surinam Cherry",
+            "color": "Red",
+            "taste": "Tart"
+          },
+          {
+            "name": "Tayberry",
+            "color": "Red",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Yuzu",
+            "color": "Yellow",
+            "taste": "Sour"
+          },
+          {
+            "name": "Breadfruit",
+            "color": "Green",
+            "taste": "Starchy"
+          },
+          {
+            "name": "Canistel",
+            "color": "Yellow",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Chayote",
+            "color": "Green",
+            "taste": "Mild"
+          },
+          {
+            "name": "Pomelo",
+            "color": "Yellow",
+            "taste": "Mild"
+          },
+          {
+            "name": "Soursop",
+            "color": "Green",
+            "taste": "Tart"
+          },
+          {
+            "name": "Feijoa",
+            "color": "Green",
+            "taste": "Tart"
+          },
+          {
+            "name": "Guanabana",
+            "color": "Green",
+            "taste": "Tart"
+          },
+          {
+            "name": "Jackfruit",
+            "color": "Yellow",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Longan",
+            "color": "Brown",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Mamey Sapote",
+            "color": "Orange",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Mulberry",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Pawpaw",
+            "color": "Yellow",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Sapodilla",
+            "color": "Brown",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Sweetsop",
+            "color": "Green",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Tamarillo",
+            "color": "Red",
+            "taste": "Tart"
+          },
+          {
+            "name": "Ugni",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Acai Berry",
+            "color": "Purple",
+            "taste": "Tart"
+          },
+          {
+            "name": "Bilberry",
+            "color": "Blue",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Boysenberry",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Camu Camu",
+            "color": "Red",
+            "taste": "Sour"
+          },
+          {
+            "name": "Cupuacu",
+            "color": "Brown",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Jabuticaba",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Loganberry",
+            "color": "Red",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Mangosteen",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Pepino",
+            "color": "Yellow",
+            "taste": "Mild"
+          },
+          {
+            "name": "Saskatoon Berry",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Surinam Cherry",
+            "color": "Red",
+            "taste": "Tart"
+          },
+          {
+            "name": "Tayberry",
+            "color": "Red",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Yuzu",
+            "color": "Yellow",
+            "taste": "Sour"
+          },
+          {
+            "name": "Breadfruit",
+            "color": "Green",
+            "taste": "Starchy"
+          },
+          {
+            "name": "Canistel",
+            "color": "Yellow",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Chayote",
+            "color": "Green",
+            "taste": "Mild"
+          },
+          {
+            "name": "Pomelo",
+            "color": "Yellow",
+            "taste": "Mild"
+          },
+          {
+            "name": "Soursop",
+            "color": "Green",
+            "taste": "Tart"
+          },
+          {
+            "name": "Feijoa",
+            "color": "Green",
+            "taste": "Tart"
+          },
+          {
+            "name": "Guanabana",
+            "color": "Green",
+            "taste": "Tart"
+          },
+          {
+            "name": "Jackfruit",
+            "color": "Yellow",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Longan",
+            "color": "Brown",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Mamey Sapote",
+            "color": "Orange",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Mulberry",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Pawpaw",
+            "color": "Yellow",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Sapodilla",
+            "color": "Brown",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Sweetsop",
+            "color": "Green",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Tamarillo",
+            "color": "Red",
+            "taste": "Tart"
+          },
+          {
+            "name": "Ugni",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Acai Berry",
+            "color": "Purple",
+            "taste": "Tart"
+          },
+          {
+            "name": "Bilberry",
+            "color": "Blue",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Boysenberry",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Camu Camu",
+            "color": "Red",
+            "taste": "Sour"
+          },
+          {
+            "name": "Cupuacu",
+            "color": "Brown",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Jabuticaba",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Loganberry",
+            "color": "Red",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Mangosteen",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Pepino",
+            "color": "Yellow",
+            "taste": "Mild"
+          },
+          {
+            "name": "Saskatoon Berry",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Surinam Cherry",
+            "color": "Red",
+            "taste": "Tart"
+          },
+          {
+            "name": "Tayberry",
+            "color": "Red",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Yuzu",
+            "color": "Yellow",
+            "taste": "Sour"
+          },
+          {
+            "name": "Breadfruit",
+            "color": "Green",
+            "taste": "Starchy"
+          },
+          {
+            "name": "Canistel",
+            "color": "Yellow",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Chayote",
+            "color": "Green",
+            "taste": "Mild"
+          },
+          {
+            "name": "Pomelo",
+            "color": "Yellow",
+            "taste": "Mild"
+          },
+          {
+            "name": "Soursop",
+            "color": "Green",
+            "taste": "Tart"
+          },
+          {
+            "name": "Feijoa",
+            "color": "Green",
+            "taste": "Tart"
+          },
+          {
+            "name": "Guanabana",
+            "color": "Green",
+            "taste": "Tart"
+          },
+          {
+            "name": "Jackfruit",
+            "color": "Yellow",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Longan",
+            "color": "Brown",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Mamey Sapote",
+            "color": "Orange",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Mulberry",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Pawpaw",
+            "color": "Yellow",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Sapodilla",
+            "color": "Brown",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Sweetsop",
+            "color": "Green",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Tamarillo",
+            "color": "Red",
+            "taste": "Tart"
+          },
+          {
+            "name": "Ugni",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Acai Berry",
+            "color": "Purple",
+            "taste": "Tart"
+          },
+          {
+            "name": "Bilberry",
+            "color": "Blue",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Boysenberry",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Camu Camu",
+            "color": "Red",
+            "taste": "Sour"
+          },
+          {
+            "name": "Cupuacu",
+            "color": "Brown",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Jabuticaba",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Loganberry",
+            "color": "Red",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Mangosteen",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Pepino",
+            "color": "Yellow",
+            "taste": "Mild"
+          },
+          {
+            "name": "Saskatoon Berry",
+            "color": "Purple",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Surinam Cherry",
+            "color": "Red",
+            "taste": "Tart"
+          },
+          {
+            "name": "Tayberry",
+            "color": "Red",
+            "taste": "Sweet"
+          },
+          {
+            "name": "Yuzu",
+            "color": "Yellow",
+            "taste": "Sour"
+          }
+        ]
+      }
